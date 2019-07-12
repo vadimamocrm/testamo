@@ -8,29 +8,6 @@ body {
   font-family: "Roboto", sans-serif;
   color: #272727;
 }
-.portfolio-main-page{
-  position: fixed;
-  text-align: center;
-  bottom: 5%;
-  right: 2%;
-  z-index: 100;
-}
-.button-back {
-  display: inline-block;
-  border: 2px solid #ffffff;
-  border-radius: 50px;
-  padding: 5px 15px;
-  margin-bottom: 13px;
-  text-decoration: none;
-  color: #fff;
-  background-color: #061634;
-  
-  letter-spacing: 1.6px;
-  font-weight: 700;
-}
-.button-back:hover {
-  opacity: 0.7;
-}
 .header {
   position: fixed;
   top: 0;
